@@ -1,20 +1,34 @@
 
 ul{
-    background-color: white;
-padding-top: 10px;
-padding-bottom: 10px;
+    list-style-type: none;
+    margin: 20;
+    padding: 0;
 }
 
 li{
     display: inline;
-    color: white;
+    
 }
 
 
 li a{
-padding: 20px;
-text-decoration: none;
+padding: 45px;
+background-color:darkblue ;
 color:white;
 }
 
+html{
+    background-color: darkslategray
+}
+ 
+ 
+img
+{
+    position: absolute;
+    left: 0px;
+    top: 120px;
+    bottom: 0px;
+    border-radius: 4pc;
+    z-index: -1;
+}
 

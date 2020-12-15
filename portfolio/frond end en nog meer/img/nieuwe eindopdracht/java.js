@@ -12,10 +12,10 @@ if (Leeftijd==stemGerechtigheid){
    document.querySelector("body").style.backgroundColor="red"
 }
 if (Leeftijd==oranjekleur){
-   document.querySelector("body").style.backgroundColor="orange"
+   document.querySelector("body").style.backgroundColor="green"
 }
 if (Leeftijd==blauwkleur){
-   document.querySelector("body").style.backgroundColor="blue"
+   document.querySelector("body").style.backgroundColor="green"
 }
 if (Leeftijd==groenkleur){
    document.querySelector("body").style.backgroundColor="green"

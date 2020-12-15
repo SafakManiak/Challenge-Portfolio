@@ -1,7 +1,7 @@
 # Link naar je Github Pages
 
-Student : `studentnaam`
+Student : `Safak akkurt`
 
-Klas    : `klascode`
+Klas    : `LCTOO0D`
 
-Link    : [github_username.github.io](github_username.github.io)
+Link    : [github_username.github.io]https://github.com/SafakManiak

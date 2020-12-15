@@ -1,7 +1,7 @@
 # Challenge Portfolio: Reflectie
 
 ### Wat ging er goed tijdens deze Challenge?
-- ik ging lekker werken en had de challeng binnen 3 dagen af 
+- ik ging lekker werken en had de challenge ik had het binnen 3 dagen af 
 - ...
 - ...
 

@@ -12,15 +12,15 @@
 
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
-| Planning    | Planning maken                                 | 00:10 u             | AF!  |
-| Ontwerpen   | Mockup van portfolio maken                     | 01:30 u             | AF!  |
-| ONETWERPEN        | Styling van elementen bepalen            | 00:30 u             | AF!       |
+| Planning    | Planning maken                                 | 00:15 u             | AF!  |
+| Ontwerpen   | Mockup van portfolio maken                     | 03:30 u             | AF!  |
+| ONETWERPEN  | Styling van elementen bepalen            | 01:30 u             | AF!       |
 | Realiseren  | Bestanden aanmaken                             | 00:45 u             | AF!       |
 | ...         |                                                |                     |        |
 | Testen      | Applicatie testen                              | 01:00 u             |  AF!      |
 | ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:30 u             |  AF!      |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 01:30 u             |  AF!      |
 | ...         |                                                |                     |        |
-| Presenteren |                                                | 00:25 u             |  AF!      |
+| Presenteren |                                                | 00:10 u             |  AF!      |
 | ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    | 00:30 u             |   AF!     |
+| Refecteren  | Reflectiedocument schrijven                    | 00:10 u             |   AF!     |

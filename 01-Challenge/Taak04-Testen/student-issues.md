@@ -8,3 +8,4 @@
 4. IK KRIJG DE LINK NAAR DE ANDERE PAGINA NIET PAKKEN 
 5. LINK NAAR DE FROND END PAGINA KRIJG IK NIET ROOD 
 6. ik had de wireframe gemaakt maar die is weer weg!
+7. ik krijg de kleur van de text niet anders als ik javascript probeer te gebruiken 

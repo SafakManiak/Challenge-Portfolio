@@ -6,3 +6,6 @@ Welke verbeteringen heb je op basis van de gevonden issues en feedback doorgevoe
 2. de link naar de andere pagina`s zijn gelukt 
 3. en de text onder de foto`s zijn gelukt
 4. de text wat kleiner gemaakt 
+5. ik heb de javascript verandert
+6. ik heb nieuwe contact gegevens toegevoegd 
+7. 

@@ -1,0 +1,64 @@
+#koptext{
+    background-color:gray;
+    border-radius: 20%;
+}
+
+.container{
+    display: flex;
+    
+}
+
+.col{
+    margin: 2px;
+}
+
+.button{
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    margin: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.button span{
+    
+    font-size: 2em;
+    font-family: consolas;
+}
+
+ul{
+    background-color: hotpink;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+li{
+    display: inline;
+    color: white;
+}
+
+
+li a{
+padding: 10px;
+text-decoration: none;
+color: white;
+}
+
+table{
+background-color: red;
+border-radius: 20px;
+padding-bottom: 20px;
+}
+
+th{
+padding: 10px;
+text-align: left;
+}
+
+td{
+text-align: left;
+
+}
